@@ -1,0 +1,26 @@
+{
+    "sysadmin_password": {
+        "original_passphrase": "gAAAAABnEURlNWei9sf58TQmifpqChSCv-dTraTTrMq8nIuw07gmR759sj8bzLz6I-hLdeE5q-hXzyMl_eDxFOIJjlSctHaPLQ==",
+        "decrypted_passphrase": "demo",
+        "modified_passphrase": "demo_key",
+        "passphrase_and_key": {
+            "demo_key": "QfP696hL9c_rvUQBy0tY0k3v4cmDIZ-4frf59fPqAHY=\n"
+        }
+    },
+    "password": {
+        "original_passphrase": "gAAAAABnEURpWmwC73YklVFDqAobqmShGv1zsUwnJErrXZhI2Exv0S8fczxcmXCk_MLEiSGBjepWP4jlJDwREBpsRgSnnq85bA==",
+        "decrypted_passphrase": "EchoLeaf1!",
+        "modified_passphrase": "EchoLeaf1!_key",
+        "passphrase_and_key": {
+            "EchoLeaf1!_key": "QfP696hL9c_rvUQBy0tY0k3v4cmDIZ-4frf59fPqAHY=\n"
+        }
+    },
+    "NoReturn": {
+        "original_passphrase": "gAAAAABm6J1ZGE5BV9NHyPLtDtF5TeB45w6sWLDX4x74K_fLjUWrfF5vUsH5uvxlPLiLsn7EQjolSKwIqW--T5yHARG9zsHz6g==",
+        "decrypted_passphrase": "NoReturn",
+        "modified_passphrase": "NoReturn_key",
+        "passphrase_and_key": {
+            "NoReturn_key": "QfP696hL9c_rvUQBy0tY0k3v4cmDIZ-4frf59fPqAHY=\n"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "entryNumber": 1,
+        "message": "vitualdrive|info|main: Starting File Manager task loop..."
+    },
+    {
+        "entryNumber": 2,
+        "message": "vitualdrive|info|main: **** File Manager tasks running! ****"
+    },
+    {
+        "entryNumber": 3,
+        "message": "vitualdrive|info|main: removeDiskQueue completed in 0.00 seconds"
+    },
+    {
+        "entryNumber": 4,
+        "message": "vitualdrive|warn|--- Entering __getFileList ---"
+    },
+    {
+        "entryNumber": 5,
+        "message": "vitualdrive|warn|Getting current time from database..."
+    },
+    {
+        "entryNumber": 6,
+        "message": "vitualdrive|warn|Database server time: 2025-02-13 08:45:12"
+    },
+    {
+        "entryNumber": 7,
+        "message": "vitualdrive|warn|Querying with DateToCopy: 2025-02-13 08:45:12"
+    },
+    {
+        "entryNumber": 8,
+        "message": "vitualdrive|warn|Executing query: SELECT FullFileName FROM ToTapeQueue WHERE Dat..."
+    },
+    {
+        "entryNumber": 9,
+        "message": "vitualdrive|warn|Query returned 0 rows"
+    },
+    {
+        "entryNumber": 10,
+        "message": "vitualdrive|warn|--- Exiting __getFileList ---"
+    },
+    {
+        "entryNumber": 11,
+        "message": "vitualdrive|info|main: toTapeQueue completed in 0.00 seconds"
+    },
+    {
+        "entryNumber": 12,
+        "message": "vitualdrive|info|main: clearDiskQueue completed in 0.00 seconds"
+    },
+    {
+        "entryNumber": 13,
+        "message": "vitualdrive|info|main: tapeManagementQueue completed in 0.00 seconds"
+    },
+    {
+        "entryNumber": 14,
+        "message": "vitualdrive|info|--- Entering RestoreManagementQueue.processQueue ---"
+    },
+    {
+        "entryNumber": 15,
+        "message": "vitualdrive|info|RestoreManagementQueue.processQueue: Retrieved 0 items for proc..."
+    },
+    {
+        "entryNumber": 16,
+        "message": "vitualdrive|info|RestoreManagementQueue.processQueue: dirHistory cleared"
+    },
+    {
+        "entryNumber": 17,
+        "message": "vitualdrive|info|--- Exiting RestoreManagementQueue.processQueue (total time: 0...."
+    },
+    {
+        "entryNumber": 18,
+        "message": "vitualdrive|info|main: restoreManagementQueue completed in 0.00 seconds"
+    },
+    {
+        "entryNumber": 19,
+        "message": "vitualdrive|info|main: runELArchive completed in 0.20 seconds"
+    },
+    {
+        "entryNumber": 20,
+        "message": "vitualdrive|info|create_fmdat: fmdat.json created with new countdown: 2:00:00 (H..."
+    }
+]
